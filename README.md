@@ -14,6 +14,18 @@ Aqui você encontrará trabalhos que mostram minha criatividade, estilo e habili
 
 Você pode ver as imagens diretamente aqui no GitHub ou baixar para usar e compartilhar.  
 
+## Galeria de Imagens
+
+<img src="imagens/foto-1.png" width="300" />  
+<img src="imagens/foto-2.png" width="300" />  
+<img src="imagens/foto-3.png" width="300" />  
+<img src="imagens/foto-4.png" width="300" />  
+<img src="imagens/foto-5.png" width="300" />  
+<img src="imagens/foto-6.png" width="300" />  
+<img src="imagens/foto-7.png" width="300" />  
+<img src="imagens/foto-8.png" width="300" />  
+<img src="imagens/foto-9.png" width="300" />  
+
 ---
 
 Obrigado por visitar!  
@@ -24,3 +36,4 @@ Qualquer dúvida ou interesse, entre em contato comigo.
 🔗 Contato  
 - LinkedIn: [Isabel Freire](https://www.linkedin.com/in/isabel-freire-421974304/)  
 - GitHub: [belapf](https://github.com/belapf)  
+
