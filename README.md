@@ -16,15 +16,15 @@ Você pode ver as imagens diretamente aqui no GitHub ou baixar para usar e compa
 
 ## Galeria de Imagens
 
-<img src="imagens/foto-1.png" width="300" />  
-<img src="imagens/foto-2.png" width="300" />  
-<img src="imagens/foto-3.png" width="300" />  
-<img src="imagens/foto-4.png" width="300" />  
-<img src="imagens/foto-5.png" width="300" />  
-<img src="imagens/foto-6.png" width="300" />  
-<img src="imagens/foto-7.png" width="300" />  
-<img src="imagens/foto-8.png" width="300" />  
-<img src="imagens/foto-9.png" width="300" />  
+<img src="imagens/foto1.png" width="300" />  
+<img src="imagens/foto2.png" width="300" />  
+<img src="imagens/foto3.png" width="300" />  
+<img src="imagens/foto4.png" width="300" />  
+<img src="imagens/foto5.png" width="300" />  
+<img src="imagens/foto6.png" width="300" />  
+<img src="imagens/foto7.png" width="300" />  
+<img src="imagens/foto8.png" width="300" />  
+<img src="imagens/foto9.png" width="300" />  
 
 ---
 
