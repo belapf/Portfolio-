@@ -2,13 +2,13 @@
 
 Aqui estão algumas das minhas criações feitas no Canva:
 
-<img src="imagens/foto 1.jpg" width="300" />  
-<img src="imagens/foto 2.jpg" width="300" />  
-<img src="imagens/foto 3.jpg" width="300" />  
-<img src="imagens/foto 4.jpg" width="300" />  
-<img src="imagens/foto 5.jpg" width="300" />  
-<img src="imagens/foto 6.jpg" width="300" />  
-<img src="imagens/foto 7.jpg" width="300" />  
-<img src="imagens/foto 8.jpg" width="300" />  
-<img src="imagens/foto 9.jpg" width="300" />  
+<img src="imagens/foto%201.jpg" width="300" />  
+<img src="imagens/foto%202.jpg" width="300" />  
+<img src="imagens/foto%203.jpg" width="300" />  
+<img src="imagens/foto%204.jpg" width="300" />  
+<img src="imagens/foto%205.jpg" width="300" />  
+<img src="imagens/foto%206.jpg" width="300" />  
+<img src="imagens/foto%207.jpg" width="300" />  
+<img src="imagens/foto%208.jpg" width="300" />  
+<img src="imagens/foto%209.jpg" width="300" />  
 
