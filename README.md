@@ -18,19 +18,19 @@ Você pode ver as imagens diretamente aqui no GitHub ou baixar para usar e compa
 
 <table>
   <tr>
-    <td><img src="imagens/foto-1.jpg" width="150" /></td>
-    <td><img src="imagens/foto-2.jpg" width="150" /></td>
-    <td><img src="imagens/foto-3.jpg" width="150" /></td>
+    <td><img src="imagens/foto1.png" width="150" /></td>
+    <td><img src="imagens/foto2.png" width="150" /></td>
+    <td><img src="imagens/foto3.png" width="150" /></td>
   </tr>
   <tr>
-    <td><img src="imagens/foto-4.jpg" width="150" /></td>
-    <td><img src="imagens/foto-5.jpg" width="150" /></td>
-    <td><img src="imagens/foto-6.jpg" width="150" /></td>
+    <td><img src="imagens/foto4.png" width="150" /></td>
+    <td><img src="imagens/foto5.png" width="150" /></td>
+    <td><img src="imagens/foto6.png" width="150" /></td>
   </tr>
   <tr>
-    <td><img src="imagens/foto-7.jpg" width="150" /></td>
-    <td><img src="imagens/foto-8.jpg" width="150" /></td>
-    <td><img src="imagens/foto-9.jpg" width="150" /></td>
+    <td><img src="imagens/foto7.png" width="150" /></td>
+    <td><img src="imagens/foto8.png" width="150" /></td>
+    <td><img src="imagens/foto9.png" width="150" /></td>
   </tr>
 </table>
 
